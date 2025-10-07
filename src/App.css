@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+#root {
+  min-height: 100vh;
+}
+
+.tech-carousel {
+  width: max-content;
+  animation: tech-carousel-scroll 18s linear infinite;
+}
+
+.tech-carousel:hover {
+  animation-play-state: paused;
+}
+
+@keyframes tech-carousel-scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
