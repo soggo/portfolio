@@ -98,7 +98,7 @@ const moreProjects = [
   },
   {
     title: 'Zapchat',
-    url: 'https://syncsite.app',
+    url: 'https://www.youtube.com/watch?si=04GhCQf0Po-r3Czq&v=BQ3v_pzgFR8&feature=youtu.be',
     tag: 'AI + Automation',
     summary:
       'A slack bot linked to your Zapier account, that allows you create Zaps via chat',
