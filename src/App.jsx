@@ -11,6 +11,7 @@ import azureLogo from './assets/Microsoft_Azure.svg'
 import nodejsLogo from './assets/nodejs-icon-svgrepo-com.svg'
 import openaiLogo from './assets/openai-svgrepo-com.svg'
 import postgresLogo from './assets/postgresql-logo-svgrepo-com.svg'
+import playwrightLogo from './assets/Playwright--Streamline-Svg-Logos.svg'
 import pythonLogo from './assets/python-svgrepo-com.svg'
 import reactLogo from './assets/react.svg'
 import tailwindLogo from './assets/tailwind-svgrepo-com.svg'
@@ -37,6 +38,7 @@ const techStack = [
   { label: 'Bootstrap', icon: bootstrapLogo },
   { label: 'Tailwind', icon: tailwindLogo },
   { label: 'Postgres', icon: postgresLogo },
+  { label: 'Playwright', icon: playwrightLogo },
   { label: 'AWS', icon: awsLogo },
   { label: 'Azure', icon: azureLogo },
   { label: 'Git', icon: gitLogo },
