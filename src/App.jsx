@@ -91,7 +91,7 @@ const moreProjects = [
   },
   {
     title: 'Whatsapp Text2Doc ',
-    url: 'https://pilotlaunch.studio',
+    url: 'https://github.com/soggo/WhatsappText2Doc',
     tag: 'Productivity Tool',
     summary:
       'A instant messanger based bot that allows you to convert your text messages to docx files, and docx files to text',
