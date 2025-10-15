@@ -68,7 +68,7 @@ const projects = [
   },
   {
     title: 'Cover Letter Whiz',
-    url: 'https://coverwhiz.pages.dev/',
+    url: 'https://coverwhiz.hirevictor.xyz/',
     tag: 'Productivity Tool',
     summary:
       'A full stack application that uses AI to create tailored cover letters based on your job description, your resume and additional context provided',
