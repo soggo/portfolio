@@ -240,7 +240,7 @@ function App() {
               </ul>
               <div className="flex flex-col gap-3 text-sm font-mono uppercase tracking-[0.1em] text-[#0d7c5a] sm:flex-row sm:items-center">
                 <a
-                  href="mailto:victor@hirevictor.com"
+                  href="mailto:victor@hirevictor.xyz"
                   className="inline-flex items-center justify-center rounded-sm border border-[#0d7c5a] bg-[#0d7c5a] px-6 py-3 !text-white transition-all hover:-translate-y-0.5 hover:shadow-[0_8px_0_0_rgba(13,124,90,0.25)]"
                 >
                   Contact me →
@@ -444,7 +444,7 @@ function App() {
             <h2 className="text-xl font-semibold text-[#0b4a36]">Let's build something.</h2>
           </div>
           <div className="flex flex-col items-start gap-2 font-mono text-[12px] uppercase tracking-[0.18em] text-[#0d7c5a] md:items-end">
-            <a href="mailto:victor@hirevictor.com" className="inline-flex items-center gap-2 transition-colors hover:text-[#0b4a36]">
+            <a href="mailto:victor@hirevictor.xyz" className="inline-flex items-center gap-2 transition-colors hover:text-[#0b4a36]">
               Email
               <span aria-hidden>↗</span>
             </a>
